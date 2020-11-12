@@ -35,7 +35,7 @@ note that this is not targeted to those who intend to follow a
 tenure-track academic career path.  New RSEs will get a training
 period which rounds out any missing skills.  They will also be
 involved in a complete support package: they will have the chance to
-be involved in teaching an infrastructure development.
+be involved in teaching and infrastructure development.
 
 
 
@@ -52,7 +52,7 @@ Skillset
 --------
 
 Below, we have a large list of the types of technologies which are valued
-our researchers and useful to our RSEs.  **No one person is expected to
+by our researchers and useful to our RSEs.  **No one person is expected to
 know everything, but we
 will hire a variety of people to cover many of the things you see
 here.**
@@ -82,7 +82,7 @@ Our broad background on which we build:
 * Software testing, CI, documentation, reproducible, portability, etc.
 * As an example, the ideal candidate will have near-perfect knowledge
   of all `Software Carpentry <swc_>`_, `CodeRefinery <cr_>`_, and the generic parts of
-  our :ref:`HPC lessons <tutorials>` - or be able to fill in gaps with
+  our :ref:`HPC lessons <tutorials>` - or be able to fill in the gaps with
   minimal effort.
 * But at the same time, we don't just want people from purely
   computational backgrounds.  You'll work with people from
